@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellomynameistareef)](https://git.io/typing-svg)
 <img src="https://github.com/TareefIman/TareefIman/blob/36ec3406d88e1b3d8339f3cd6da0e94aa2524df0/assets/croppedloading.gif" style="max-width: 100%">
 
+## Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=TareefIman&theme=nightowl&hide_border=false" alt="TareefIman" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TareefIman" /></p>
 ![Tareefs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TareefIman&show_icons=true&theme=nightowl&show=reviews,discussions_started,discussions_answered,)
