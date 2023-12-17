@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellomynameistareef)](https://git.io/typing-svg)
-<img src="https://github.com/TareefIman/TareefIman/blob/c287fc5b589051c45eb06b5d7d0d35b77139e8b0/assets/rendering.gif" width="100%" height ="70%">
+<img src="https://github.com/TareefIman/TareefIman/blob/c287fc5b589051c45eb06b5d7d0d35b77139e8b0/assets/rendering.gif" style="max-width: 100%; max-height: 500px;">
