@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=700&pause=1000&color=82AAFF&background=001B33&center=true&vCenter=true&repeat=false&random=true&width=453&lines=%22Hello+world%2C+I'm+Tareef!+%F0%9F%9A%80%22" alt="Typing SVG" /></a>
 <img src="https://github.com/TareefIman/TareefIman/blob/36ec3406d88e1b3d8339f3cd6da0e94aa2524df0/assets/croppedloading.gif" style="max-width: 100%">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=700&pause=1000&color=82AAFF&background=001B33&center=true&vCenter=true&repeat=false&random=true&width=453&lines=%22Hello+world%2C+I'm+Tareef!+%F0%9F%9A%80%22" alt="Typing SVG" /></a>
 
 ## Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=TareefIman&theme=nightowl&hide_border=false" alt="TareefIman" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TareefIman" /></p>
-![Tareefs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TareefIman&show_icons=true&theme=nightowl&show=reviews,discussions_started,discussions_answered,)
