@@ -32,7 +32,6 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
 - 🔭 I’m currently in college
 - 📖 I’m currently learning Flutter, Devise, LangChain, Deep learning, ThreeJS, AWS, Data structures & Algorithms
 
-
 ---
 
 ## 💻 Programming Languages
@@ -47,7 +46,7 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
   <img style="padding:5px;" align="center" alt="Dart" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
   <img style="padding:5px;" align="center" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
 </p>
-
+- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, Ruby, Python, Kotlin, Dart, PHP
 ---
 
 ## 🌐 Frontend Frameworks
@@ -60,9 +59,10 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
   <img style="padding:5px;" align="center" alt="Material-UI" width="35px" src="https://avatars.githubusercontent.com/u/33663932?s=280&v=4"/>
   <img style="padding:5px;" align="center" alt="Chakra UI" width="35px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true"/>
 </p>
+- **Frontend Frameworks:** React, React-Router, React-Bootstrap, Next.js, Tailwind CSS, Material-UI, Chakra UI
 
-<!-- Backend Frameworks -->
 ---
+<!-- Backend Frameworks -->
 
 ## 🌐 Backend Frameworks
 <p float="left">
@@ -72,6 +72,7 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
 <img style="padding:5px;" align="center" alt="Node.JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img style="padding:5px;" align="center" alt="FastAPI" width="35px" src="https://repository-images.githubusercontent.com/160919119/29516980-f308-11e9-9096-0836920fdae3"/>
 </p>
+- **Backend Frameworks:** Ruby on Rails, Express.js, Flask, Node.js, FastAPI
 
 ---
 
@@ -89,7 +90,7 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
   <img style="padding:5px;" align="center" alt="PrismaDB" width="35px" src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/4WJkWMYGkEpa05B0hyL88E/91dd67e91752d39d94b60cdcdfdc287d/prismalogo-freelogovectors.net_.png"/>
   <img style="padding:5px;" align="center" alt="Vercel" width="35px" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"/>
 </p>
-
+- **Databases & Services:** MongoDB, PostgreSQL, MySQL, Firebase, AWS, Supabase, Heroku, Netlify, PrismaDB, Vercel
 
 ---
 
@@ -105,7 +106,9 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
   <img style="padding:5px;" align="center" alt="GOogle Collab" width="35px" src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb"/>
 </p>
 
-Visual Studio Code, Sublime Text, Android Studio, Atom, IntelliJ IDEA,Brackets, Jupyter Notebook, Google Colab
+- **IDE:** Visual Studio Code, Sublime Text, Android Studio, Atom, IntelliJ IDEA, Brackets, Jupyter Notebook, Google Colab
+
+---
 
 ## Stats
 <p float="left">
