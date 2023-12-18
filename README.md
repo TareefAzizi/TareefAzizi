@@ -16,12 +16,22 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=700&pause=4000&color=82AAFF&background=001B33&center=true&vCenter=true&width=453&lines=%22Hello+world%2C+I'm+Tareef!+%F0%9F%9A%80%22" alt="Typing SVG" /></a>
 
-### ⚡️ A quick introduction
+---
 
+### 🌟 Welcome to My Profile!
+
+Hello, I'm Tareef! My journey in technology began when I stumbled upon coding earlier in my teen years. Currently, I'm a college student, passionately exploring the realms of Artificial Intelligence. I'm particularly fascinated by the potential of deep learning and cloud technologies to transform how we interact with data and build scalable systems.
+
+I'm always eager to collaborate on innovative projects and learn new things along the way.
+
+Feel free to browse through my repositories and don't hesitate to reach out for collaborations or just a chat about technology!
+
+---
+
+### ⚡️ A quick introduction
 - [ ] 🔭 I’m currently in college
 - [ ] 🌱 I’m currently learning Flutter, Devise, LangChain, Deep learning, ThreeJS, AWS, Data structures & Algorithms
-
-### 💻 Languages, Frameworks, Tools
+---
 
 ## 💻 Programming Languages
 <p float="left">
@@ -35,7 +45,7 @@ Here are some ideas to get you started:
   <img style="padding:5px;" align="center" alt="Dart" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
   <img style="padding:5px;" align="center" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
 </p>
-
+---
 ## 🌐 Frontend Frameworks
 <p float="left">
   <img style="padding:5px;" align="center" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
@@ -47,7 +57,7 @@ Here are some ideas to get you started:
   <img style="padding:5px;" align="center" alt="Chakra UI" width="35px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true"/>
 </p>
 <!-- Backend Frameworks -->
-
+---
 ## 🌐 Backend Frameworks
 <p float="left">
 <img style="padding:5px;" align="center" alt="Ruby on Rails" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
@@ -56,7 +66,7 @@ Here are some ideas to get you started:
 <img style="padding:5px;" align="center" alt="Node.JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img style="padding:5px;" align="center" alt="FastAPI" width="35px" src="https://repository-images.githubusercontent.com/160919119/29516980-f308-11e9-9096-0836920fdae3"/>
 </p>
-
+---
 <!-- Databases & Services -->
 ## 🌐 Databases & Services
 <p float="left">
@@ -66,7 +76,7 @@ Here are some ideas to get you started:
 <img style="padding:5px;" align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 <img style="padding:5px;" align="center" alt="AWS" width="35px" src="https://repository-images.githubusercontent.com/356979740/b7a6f6f2-5693-4166-8406-94bdd0840ccb"/>
 </p>
-
+---
 ## Stats
 <p float="left">
 <p><img src="https://github-readme-stats.vercel.app/api?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
