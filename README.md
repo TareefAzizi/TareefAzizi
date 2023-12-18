@@ -83,7 +83,18 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
 <img style="padding:5px;" align="center" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <img style="padding:5px;" align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 <img style="padding:5px;" align="center" alt="AWS" width="35px" src="https://repository-images.githubusercontent.com/356979740/b7a6f6f2-5693-4166-8406-94bdd0840ccb"/>
+  <img style="padding:5px;" align="center" alt="Supabase" width="35px" src="https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png#gh-dark-mode-only"/>
+  
+  <img style="padding:5px;" align="center" alt="Heroku" width="35px" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"/>
 </p>
+  <img style="padding:5px;" align="center" alt="Netlify" width="35px" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"/>
+</p>
+    
+  <img style="padding:5px;" align="center" alt="PrismaDB" width="35px" src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/4WJkWMYGkEpa05B0hyL88E/91dd67e91752d39d94b60cdcdfdc287d/prismalogo-freelogovectors.net_.png"/>
+      
+  <img style="padding:5px;" align="center" alt="Vercel" width="35px" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"/>
+</p>
+
 
 ---
 
