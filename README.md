@@ -46,7 +46,7 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
   <img style="padding:5px;" align="center" alt="Dart" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
   <img style="padding:5px;" align="center" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
 </p>
-- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, Ruby, Python, Kotlin, Dart, PHP
+ **Programming Languages:** HTML, CSS, JavaScript, TypeScript, Ruby, Python, Kotlin, Dart, PHP
 ---
 
 ## 🌐 Frontend Frameworks
