@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <img style="padding:5px;" align="center" alt="Chakra UI" width="35px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true"/>
 </p>
 <!-- Backend Frameworks -->
+## 🌐 Backend Frameworks
 <p float="left">
 <img style="padding:5px;" align="center" alt="Ruby on Rails" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
 <img style="padding:5px;" align="center" alt="Express.Js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
@@ -56,6 +57,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Databases & Services -->
+## 🌐 Databases & Services
 <p float="left">
 <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <img style="padding:5px;" align="center" alt="PostgreSQL" width="35px" src="https://repository-images.githubusercontent.com/518236698/17c5dd41-7e1a-4ea7-a05f-5213c30dfef2"/>
@@ -65,7 +67,6 @@ Here are some ideas to get you started:
 </p>
 
 ## Stats
-
 <p float="left">
 <p><img src="https://github-readme-stats.vercel.app/api?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=TareefIman&theme=nightowl&hide_border=false" alt="TareefIman" /></p>
