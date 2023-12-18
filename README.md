@@ -91,6 +91,23 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
 </p>
 ---
 
+
+---
+
+## 🌐 IDE
+<p float="left">
+<img style="padding:5px;" align="center" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
+<img style="padding:5px;" align="center" alt="Sublime Text" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"/>
+<img style="padding:5px;" align="center" alt="Android Studio" width="35px" src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/android-studio/android-studio.png"/>
+<img style="padding:5px;" align="center" alt="Atom" width="35px" src="https://user-images.githubusercontent.com/56836283/157270030-a79bac9f-7a8e-4951-9648-22034e44ffa2.svg"/>
+<img style="padding:5px;" align="center" alt="IntelliJ Idea" width="35px" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"/>
+<img style="padding:5px;" align="center" alt="Brackets" width="35px" src="https://avatars.githubusercontent.com/u/85162907?s=280&v=4"/>
+  <img style="padding:5px;" align="center" alt="Jupyter Notebook" width="35px" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"/>
+  <img style="padding:5px;" align="center" alt="GOogle Collab" width="35px" src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb"/>
+</p>
+
+Visual Studio Code, Sublime Text, Android Studio, Atom, IntelliJ IDEA,Brackets, Jupyter Notebook, Google Colab
+
 ## Stats
 <p float="left">
 <p><img src="https://github-readme-stats.vercel.app/api?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
