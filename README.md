@@ -89,7 +89,6 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
   <img style="padding:5px;" align="center" alt="PrismaDB" width="35px" src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/4WJkWMYGkEpa05B0hyL88E/91dd67e91752d39d94b60cdcdfdc287d/prismalogo-freelogovectors.net_.png"/>
   <img style="padding:5px;" align="center" alt="Vercel" width="35px" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"/>
 </p>
----
 
 
 ---
