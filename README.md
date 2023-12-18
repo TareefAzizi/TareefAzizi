@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🌟 Welcome to My Profile!
 Hey there, I'm Tareef! Fascinated by web development since my early teens, I'm now navigating the thrilling world of full stack development and AI as a college student. My passion? Crafting sleek web applications and diving into the AI realm to explore how these fields intersect and innovate.
 
-I thrive on the creativity and problem-solving that tech offers. Every line of code in web development and each algorithm in AI represents a new challenge and an opportunity for creativity. My aim is to blend these domains, creating intuitive, intelligent solutions that push technological boundaries.
+I thrive on the creativity and problem-solving that tech offers. It represents a new challenge and an opportunity for creativity. My aim is to blend these domains, creating intuitive, intelligent solutions that push technological boundaries.
 
 In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're into web development, AI, or anything tech, let's chat! Dive into my repositories or reach out for a conversation – let's innovate together!
 
