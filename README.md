@@ -31,6 +31,8 @@ Feel free to browse through my repositories and don't hesitate to reach out for 
 ### ⚡️ A quick introduction
 - [ ] 🔭 I’m currently in college
 - [ ] 🌱 I’m currently learning Flutter, Devise, LangChain, Deep learning, ThreeJS, AWS, Data structures & Algorithms
+
+
 ---
 
 ## 💻 Programming Languages
@@ -45,7 +47,9 @@ Feel free to browse through my repositories and don't hesitate to reach out for 
   <img style="padding:5px;" align="center" alt="Dart" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
   <img style="padding:5px;" align="center" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
 </p>
+
 ---
+
 ## 🌐 Frontend Frameworks
 <p float="left">
   <img style="padding:5px;" align="center" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
@@ -56,8 +60,10 @@ Feel free to browse through my repositories and don't hesitate to reach out for 
   <img style="padding:5px;" align="center" alt="Material-UI" width="35px" src="https://avatars.githubusercontent.com/u/33663932?s=280&v=4"/>
   <img style="padding:5px;" align="center" alt="Chakra UI" width="35px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true"/>
 </p>
+
 <!-- Backend Frameworks -->
 ---
+
 ## 🌐 Backend Frameworks
 <p float="left">
 <img style="padding:5px;" align="center" alt="Ruby on Rails" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
@@ -66,7 +72,9 @@ Feel free to browse through my repositories and don't hesitate to reach out for 
 <img style="padding:5px;" align="center" alt="Node.JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img style="padding:5px;" align="center" alt="FastAPI" width="35px" src="https://repository-images.githubusercontent.com/160919119/29516980-f308-11e9-9096-0836920fdae3"/>
 </p>
+
 ---
+
 <!-- Databases & Services -->
 ## 🌐 Databases & Services
 <p float="left">
@@ -76,7 +84,9 @@ Feel free to browse through my repositories and don't hesitate to reach out for 
 <img style="padding:5px;" align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 <img style="padding:5px;" align="center" alt="AWS" width="35px" src="https://repository-images.githubusercontent.com/356979740/b7a6f6f2-5693-4166-8406-94bdd0840ccb"/>
 </p>
+
 ---
+
 ## Stats
 <p float="left">
 <p><img src="https://github-readme-stats.vercel.app/api?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
