@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=700&pause=4000&color=82AAFF&background=001B33&center=true&vCenter=true&width=453&lines=%22Hello+world%2C+I'm+Tareef!+%F0%9F%9A%80%22" alt="Typing SVG" /></a>
 
+### ⚡️ A quick introduction
+
+- [ ] 🔭 I’m currently in college
+- [ ] 🌱 I’m currently learning Flutter, Devise, LangChain, Deep learning, ThreeJS, AWS, Data structures & Algorithms
+
+### 💻 Languages, Frameworks, Tools
+
 ## 💻 Programming Languages
 <p float="left">
   <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
