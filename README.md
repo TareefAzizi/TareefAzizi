@@ -16,6 +16,41 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=700&pause=4000&color=82AAFF&background=001B33&center=true&vCenter=true&width=453&lines=%22Hello+world%2C+I'm+Tareef!+%F0%9F%9A%80%22" alt="Typing SVG" /></a>
 
+<!-- Programming Languages -->
+<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img style="padding:5px;" align="center" alt="Typescript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img style="padding:5px;" align="center" alt="Ruby" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
+<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img style="padding:5px;" align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>
+<img style="padding:5px;" align="center" alt="Dart" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
+<img style="padding:5px;" align="center" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
+
+<!-- Frontend Frameworks -->
+<img style="padding:5px;" align="center" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img style="padding:5px;" align="center" alt="React-Router" width="35px" src="https://raw.githubusercontent.com/github/explore/4c04525afd9e6c11050259ebaa2e4a1c8b0a223d/topics/react-router/react-router.png"/>
+<img style="padding:5px;" align="center" alt="React-Bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+<img style="padding:5px;" align="center" alt="Next.js" width="35px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"/>
+<img style="padding:5px;" align="center" alt="Tailwind CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png"/>
+<img style="padding:5px;" align="center" alt="Material-UI" width="35px" src="https://avatars.githubusercontent.com/u/33663932?s=280&v=4"/>
+<img style="padding:5px;" align="center" alt="Chakra UI" width="35px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true"/>
+
+<!-- Backend Frameworks -->
+<img style="padding:5px;" align="center" alt="Ruby on Rails" width="35px" src="ICON_URL_FOR_RUBY_ON_RAILS"/>
+<img style="padding:5px;" align="center" alt="Express.Js" width="35px" src="ICON_URL_FOR_EXPRESS_JS"/>
+<img style="padding:5px;" align="center" alt="Flask" width="35px" src="ICON_URL_FOR_FLASK"/>
+<img style="padding:5px;" align="center" alt="Node.JS" width="35px" src="ICON_URL_FOR_NODE_JS"/>
+<img style="padding:5px;" align="center" alt="FastAPI" width="35px" src="ICON_URL_FOR_FASTAPI"/>
+<img style="padding:5px;" align="center" alt="SQLite" width="35px" src="ICON_URL_FOR_SQLITE"/>
+
+<!-- Databases & Services -->
+<img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="ICON_URL_FOR_MONGODB"/>
+<img style="padding:5px;" align="center" alt="PostgreSQL" width="35px" src="ICON_URL_FOR_POSTGRESQL"/>
+<img style="padding:5px;" align="center" alt="MySQL" width="35px" src="ICON_URL_FOR_MYSQL"/>
+<!-- Add other databases and services similarly -->
+
+
 ## Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
