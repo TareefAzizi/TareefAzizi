@@ -118,7 +118,7 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
 
 ## Stats
 <p float="left">
-<p><img src="https://github-readme-stats.vercel.app/api?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=TareefIman&theme=nightowl&hide_border=false" alt="TareefIman" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TareefIman" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=TareefAzizi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="TareefIman" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=TareefAzizi&theme=nightowl&hide_border=false" alt="Tareef" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareefIman&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TareefAzizi" /></p>
 </p>
