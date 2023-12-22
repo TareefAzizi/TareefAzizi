@@ -122,3 +122,5 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=TareefAzizi&theme=nightowl&hide_border=false" alt="Tareef" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareefAzizi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TareefAzizi" /></p>
 </p>
+
+Github repo's are still in progress
