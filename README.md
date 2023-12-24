@@ -30,7 +30,7 @@ In this fast-paced tech landscape, I'm keen to collaborate and learn. If you're 
 
 ### ⚡️ A quick introduction
 - 🔭 I’m currently in college
-- 📖 I’m currently learning Flutter, Devise, LangChain, Deep learning, ThreeJS, AWS, Data structures & Algorithms
+- 📖 I’m currently learning Flutter, Devise, LangChain, Deep learning, ThreeJS, AWS, Data structures & Algorithms.
 
 ---
 
